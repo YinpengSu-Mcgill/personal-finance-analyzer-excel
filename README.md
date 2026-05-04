@@ -25,7 +25,7 @@ Open either workbook in Microsoft Excel, enter your own monthly records, and rev
 
 ### Monthly income, expense, sales tax, and net cash flow
 
-![Monthly cash flow preview](.png)
+![Monthly cash flow preview](01_monthly_cash_flow_en.png)
 
 This view compares monthly income and personal expenses. It also shows estimated sales tax and net cash flow.
 
