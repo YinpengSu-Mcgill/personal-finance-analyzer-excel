@@ -1,0 +1,6 @@
+Month,Date,Description,Amount,Main_Category,Sub_Category,Fixed_or_Variable,Essential_or_Discretionary,Analysis_Treatment,Notes
+2026-01,2026-01-01,Rent,-1200,Housing,Rent,Fixed,Essential,Personal_Expense,Sample monthly rent
+2026-01,2026-01-03,Grocery,-85,Food,Grocery,Variable,Essential,Personal_Expense,Sample grocery spending
+2026-01,2026-01-05,Internet,-55,Communication,Internet,Fixed,Essential,Personal_Expense,Sample internet bill
+2026-01,2026-01-08,Restaurant,-38,Food,Dining,Variable,Discretionary,Personal_Expense,Sample dining out
+2026-01,2026-01-10,Salary,2500,Income,Salary,Fixed,Essential,Excluded_Income,Sample income record for reference only
