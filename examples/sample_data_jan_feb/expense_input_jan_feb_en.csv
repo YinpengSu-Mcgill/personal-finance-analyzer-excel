@@ -1,0 +1,29 @@
+﻿Record_ID,Date,Expense_Description,Expense_Amount,Main_Category,Expense_Type,Necessity,Analysis_Scope,Tax_Type,Notes
+支出-0001,2026-01-01,Rent,3000,Housing,Fixed,Essential,Personal Expense,Tax Exempt,"Example: January total expense is about 5,000; rent accounts for 60%."
+支出-0002,2026-01-03,"Grocery staples: eggs, vegetables, milk",450,Food,Variable,Essential,Personal Expense,Zero-rated,Basic groceries are shown as zero-rated for demonstration.
+支出-0003,2026-01-05,Restaurant meals,320,Food,Variable,Discretionary,Personal Expense,Taxable,Restaurants and takeout are usually taxable.
+支出-0004,2026-01-07,Gas,220,Transportation,Variable,Essential,Personal Expense,Taxable,Taxable transportation example.
+支出-0005,2026-01-08,Mobile phone bill,60,Communication,Fixed,Essential,Personal Expense,Taxable,
+支出-0006,2026-01-09,Cloud service subscription,30,Subscription,Fixed,Discretionary,Personal Expense,Taxable,
+支出-0007,2026-01-10,Clothing and daily essentials,250,Shopping,Variable,Discretionary,Personal Expense,Taxable,
+支出-0008,2026-01-12,Medicine and medical supplies,80,Medical,Variable,Essential,Personal Expense,Tax Exempt,Template example only; verify with the actual receipt.
+支出-0009,2026-01-15,Gym monthly fee,70,Fitness,Fixed,Discretionary,Personal Expense,Taxable,
+支出-0010,2026-01-16,课程与书籍,120,Education,One-time,Discretionary,Personal Expense,Tax Included Unknown,学习类税费取决于具体项目
+支出-0011,2026-01-18,宠物食品和用品,90,宠物,Variable,Discretionary,Personal Expense,Taxable,
+支出-0012,2026-01-20,电影和游戏娱乐,100,Entertainment,Variable,Discretionary,Personal Expense,Taxable,
+支出-0013,2026-01-25,政府费用,100,税费,One-time,Essential,Personal Expense,Not Applicable,政府收费不纳入消费税估算
+支出-0014,2026-01-28,其他杂项,110,其他,Variable,Discretionary,Personal Expense,Tax Included Unknown,
+支出-0015,2026-02-01,Rent,3000,Housing,Fixed,Essential,Personal Expense,Tax Exempt,示例：2月有一定波动
+支出-0016,2026-02-03,超市基础食品：水果、蔬菜、面包,520,Food,Variable,Essential,Personal Expense,Zero-rated,
+支出-0017,2026-02-05,餐厅聚餐,350,Food,Variable,Discretionary,Personal Expense,Taxable,
+支出-0018,2026-02-06,车辆加油与停车,260,Transportation,Variable,Essential,Personal Expense,Taxable,
+支出-0019,2026-02-08,Mobile phone bill,60,Communication,Fixed,Essential,Personal Expense,Taxable,
+支出-0020,2026-02-10,软件订阅,45,Subscription,Fixed,Discretionary,Personal Expense,Taxable,
+支出-0021,2026-02-11,衣物购物,300,Shopping,Variable,Discretionary,Personal Expense,Taxable,
+支出-0022,2026-02-13,医疗用品,100,Medical,Variable,Essential,Personal Expense,Tax Exempt,
+支出-0023,2026-02-15,Gym monthly fee,70,Fitness,Fixed,Discretionary,Personal Expense,Taxable,
+支出-0024,2026-02-17,线上课程,140,Education,One-time,Discretionary,Personal Expense,Tax Included Unknown,
+支出-0025,2026-02-19,宠物用品,100,宠物,Variable,Discretionary,Personal Expense,Taxable,
+支出-0026,2026-02-21,娱乐活动,120,Entertainment,Variable,Discretionary,Personal Expense,Taxable,
+支出-0027,2026-02-23,政府费用,150,税费,One-time,Essential,Personal Expense,Not Applicable,
+支出-0028,2026-02-26,其他杂项,85,其他,Variable,Discretionary,Personal Expense,Tax Included Unknown,
