@@ -36,18 +36,6 @@ This view shows average monthly spending by category and the share of each categ
 5. Update the settings sheet if your cash reserve or risk preference changes.
 6. Review monthly summary, category summary, emergency fund, and investable cash results.
 
-## Example data
-
-The workbook includes Month 1 and Month 2 sample data. These sample records show how personal expenses and income can be entered.
-
-CSV examples are also available in:
-
-```text
-examples/sample_data_jan_feb/
-```
-
-You can replace the sample data with your own records.
-
 ## What the workbook tracks
 
 - monthly income and personal expenses;
@@ -105,18 +93,6 @@ This workbook is a personal finance analysis tool. It is not tax, legal, account
 4. 在收入输入页录入每月收入。
 5. 现金储备或风险偏好变化时，更新设置页。
 6. 查看每月汇总、类别汇总、备用金和可投资现金结果。
-
-## 示例数据
-
-工作簿中已经包含第一个月和第二个月的示例数据。这些记录用于展示个人支出和收入的录入格式。
-
-CSV 示例也放在：
-
-```text
-examples/sample_data_jan_feb/
-```
-
-你可以用自己的记录替换示例数据。
 
 ## 工作簿可以分析什么
 
