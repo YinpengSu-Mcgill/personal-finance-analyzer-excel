@@ -4,6 +4,14 @@ A bilingual Excel template for tracking personal income, expenses, sales tax, em
 
 This project is built for people who want a simple monthly input workflow and an Excel dashboard that summarizes personal spending patterns.
 
+## What makes this project different
+
+This workbook is more than a basic expense tracker. It combines monthly bookkeeping, spending-category analysis, cash-reserve planning, and optional sales tax reverse estimation in one Excel file.
+
+A special feature of this template is the optional GST/QST reverse-estimation workflow. When expenses are entered as tax-included payments, the workbook can estimate the pre-tax amount, GST, QST, and monthly sales tax total based on configurable tax settings. This is useful for understanding how much of monthly spending may come from consumption taxes.
+
+The sales tax module is designed for personal analysis only. It is an estimate, not a replacement for official receipts, accounting records, or tax filings.
+
 ## Download
 
 | Version | File |
@@ -35,6 +43,7 @@ This view shows average monthly spending by category and the share of each categ
 4. Enter monthly income in the income input sheet.
 5. Update the settings sheet if your cash reserve or risk preference changes.
 6. Review monthly summary, category summary, emergency fund, and investable cash results.
+7. Optionally review the sales tax analysis sheets to estimate monthly GST/QST from tax-included spending.
 
 ## What the workbook tracks
 
@@ -44,7 +53,8 @@ This view shows average monthly spending by category and the share of each categ
 - monthly net cash flow;
 - annual spending projection;
 - emergency fund requirement;
-- investable cash after keeping a safety reserve.
+- investable cash after keeping a safety reserve;
+- optional reverse-estimated pre-tax spending and sales tax components.
 
 ## Privacy note
 
@@ -61,6 +71,14 @@ This workbook is a personal finance analysis tool. It is not tax, legal, account
 这是一个中英双版 Excel 模板，用于记录个人收入、支出、消费税、备用金和可投资现金。
 
 这个项目适合想要用简单方式录入月度数据，并通过 Excel 总览页查看消费结构的人。
+
+## 项目特点
+
+这个工作簿不只是基础记账表。它把月度记账、消费类别分析、现金储备规划，以及可选的消费税反推估算整合在同一个 Excel 文件里。
+
+这个模板的一个特殊功能是可选的 GST/QST 反推估算。用户录入含税消费金额后，工作簿可以根据可配置的税率设置，估算税前金额、GST、QST，以及每月消费税总额。这个功能适合用来理解月度消费中可能有多少金额来自消费税。
+
+消费税模块只用于个人分析和估算，不能替代正式发票、会计记录或报税文件。
 
 ## 下载
 
@@ -93,6 +111,7 @@ This workbook is a personal finance analysis tool. It is not tax, legal, account
 4. 在收入输入页录入每月收入。
 5. 现金储备或风险偏好变化时，更新设置页。
 6. 查看每月汇总、类别汇总、备用金和可投资现金结果。
+7. 可以选择查看消费税分析页面，基于含税消费金额估算每月 GST/QST。
 
 ## 工作簿可以分析什么
 
@@ -102,7 +121,8 @@ This workbook is a personal finance analysis tool. It is not tax, legal, account
 - 月度净现金流；
 - 年度支出预测；
 - 备用金需求；
-- 保留安全储备后的可投资现金。
+- 保留安全储备后的可投资现金；
+- 可选的税前消费金额和消费税组成反推。
 
 ## 隐私提醒
 
